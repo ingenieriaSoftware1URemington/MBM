@@ -26,3 +26,4 @@ def prestar_libro(isbn, id_user):
 
 agregar_libro("1984", "Orwell", "123")
 print(prestar_libro("123", 1))
+
