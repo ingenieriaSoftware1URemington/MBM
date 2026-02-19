@@ -57,3 +57,5 @@ Gestión de alertas y avisos del sistema:
 ![casos de uso](IMG/TAREA2.png)
 ![casos de uso](IMG/TAREA3.png)
 ![casos de uso](IMG/TAREA4.png)
+
+
