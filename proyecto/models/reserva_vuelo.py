@@ -22,4 +22,4 @@ class ReservaVuelo(Reserva):
         super().cancelarReserva()
 
     def getVuelo(self):
-        return self.__vuelo
+        return self.__vuelo 
